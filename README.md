@@ -25,11 +25,11 @@
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="https://dev.to/midhun-nk">
+  <a href="https://sanjeev-tech-60060824043.development.catalystserverless.in/app/index.html">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://discord.com/users/midhun_n">
+  <a href="https://discord.com/users/sanjeevans408">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
   </a>
 
@@ -68,14 +68,14 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,Reactjs,langchain,django,flutter,nextjs,tailwind,bootstrap" />
 </td>
 
 
@@ -91,7 +91,7 @@
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+    <img src="https://skillicons.dev/icons?i=git,Ai tools,vscode,gcp,postman,andriodstudio" />
 </td>
 </tr>
 </table>
@@ -114,7 +114,7 @@
 ## ❤️ Support Me
 
 <p align="center">
-  <a href="buymeacoffee.com/sanjeevan">
+  <a href="https://www.buymeacoffee.com/sanjeevan">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p>
