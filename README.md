@@ -1,121 +1,91 @@
-﻿<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
-
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Sanjeevan M</strong>
-</h1>
+# 👋 Hi, I'm Sanjeevan M
 
 <h3>Full Stack Developer | MERN • Python • Flutter</h3>
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+<img align="right" width="350" alt="Coding animation" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-  <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
-  </p>
+I'm a full-stack developer passionate about building modern, responsive, and user-friendly digital experiences. I enjoy developing everything from interactive frontends to scalable backend APIs and exploring new technologies to solve real-world problems.
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:sanjeevans408@gmail.com"><img src="https://img.shields.io/badge/📧_sanjeevans408@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
-  </p>
+- 🌍 Based in India
+- 💻 Interested in Full Stack Development, Python, and AI
+- 🤝 Open to collaborations, internships, and open-source contributions
+- 📧 Email: **sanjeevans408@gmail.com**
 
-<h3>🌐 Socials</h3>
-  
+### 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://sanjeev-tech-60060824043.development.catalystserverless.in/app/index.html">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://discord.com/users/sanjeevans408">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
-
   <a href="https://github.com/sanjeevans408">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <a href="https://www.instagram.com/sanjeevan_official_74?igsh=eHE4ODdtOWxyaWFl">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-
   <a href="https://www.linkedin.com/in/sanjeevan-m-b80b232bb">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
+  <a href="https://www.instagram.com/sanjeevan_official_74/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="https://x.com/SanjeevanS19400">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-
-  <a href="https://youtube.com/@friends_gamerss?si=n5-5cN05b9_1Ax02">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
+  <a href="https://youtube.com/@friends_gamerss">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://discord.com/users/sanjeevans408">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
-
-
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
-
-<br clear="all" />
-
-
-## 🛠️ Skills
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-
- <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,Reactjs,langchain,django,flutter,nextjs,tailwind,bootstrap" />
-</td>
-
-
-
-</tr>
-<tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,Ai tools,vscode,gcp,postman,andriodstudio" />
-</td>
-</tr>
-</table>
-</p>
-
-
-
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
-</div>
 
 ---
 
-## ❤️ Support Me
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java" alt="Programming languages" />
+</p>
+
+### ⚛️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" alt="Frameworks and libraries" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres" alt="Databases" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,postman,androidstudio" alt="Tools and platforms" />
+</p>
+
+### 🤖 AI & Data Tools
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeevans408&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevans408&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanjeevans408&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## ☕ Support My Work
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/sanjeevan">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me a Coffee" />
   </a>
 </p>
 
+<p align="center">
+  💙 Thanks for visiting my profile!
+</p>
