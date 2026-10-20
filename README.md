@@ -1,91 +1,36 @@
-# 👋 Hi, I'm Sanjeevan M
+<!-- SANJEEVAN M — GitHub Profile README Design palette: midnight navy + electric blue + violet + cyan --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=SANJEEVAN%20M&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=WEB%20DEVELOPMENT%20%E2%80%A2%20PYTHON%20%E2%80%A2%20AI%20PROJECTS&descSize=16&descAlignY=58&animation=fadeIn&color=0:111827,35:312e81,68:2563eb,100:06b6d4" width="100%" alt="Animated Sanjeevan M profile banner" /> </div> <div align="center"> <a href="https://sanjeevanm.vercel.app"> <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-06b6d4?style=for-the-badge&labelColor=111827" alt="Portfolio website" /> </a> <a href="mailto:sanjeevans408@gmail.com"> <img src="https://img.shields.io/badge/✉%20Email-Let's%20Connect-f97316?style=for-the-badge&labelColor=111827" alt="Email Sanjeevan" /> </a> <a href="https://www.linkedin.com/in/sanjeevantech"> <img src="https://img.shields.io/badge/LinkedIn-Connect-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn profile" /> </a> <a href="https://github.com/sanjeevans408"> <img src="https://img.shields.io/badge/GitHub-Follow-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub profile" /> </a> </div>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=850&color=67E8F9&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Building+useful+digital+experiences;Python+%7C+Full+Stack+%7C+AI-powered+projects;Learn.+Build.+Ship.+Improve." alt="Animated introduction: Python, full stack, and AI projects" /> </div> <p align="center"> <img src="https://img.shields.io/badge/🎓%20B.E.%20Computer%20Science-2023–2027-7c3aed?style=flat-square&labelColor=111827" alt="Computer Science student" /> <img src="https://img.shields.io/badge/📍%20Tamil%20Nadu-India-0891b2?style=flat-square&labelColor=111827" alt="Location" /> <img src="https://komarev.com/ghpvc/?username=sanjeevans408&style=flat-square&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" /> </p>
+✨ About Me
+I'm a Computer Science undergraduate interested in building useful web applications and Python-powered solutions. I enjoy working across the development process—from shaping a user interface to implementing backend logic, connecting data, and exploring AI-assisted features.
 
-<h3>Full Stack Developer | MERN • Python • Flutter</h3>
+💻 Focus: Web development, Python, data visualization, and applied AI
+🧩 Approach: Build practical projects, solve problems, and improve through iteration
+🤝 Open to: Internships, collaborative projects, and open-source contributions
+🌐 Portfolio: sanjeevanm.vercel.app
+📬 Contact: sanjeevans408@gmail.com
+🧰 Technology Toolkit
+<p align="center"> <strong>LANGUAGES</strong><br/><br/> <img src="https://skillicons.dev/icons?i=python,html,css,js" alt="Python, HTML, CSS, JavaScript" /> <br/><br/> <strong>WEB DEVELOPMENT</strong><br/><br/> <img src="https://skillicons.dev/icons?i=react,flask,django" alt="React, Flask, Django" /> <br/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /> <br/><br/> <strong>DATA & DATABASES</strong><br/><br/> <img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="PostgreSQL and MongoDB" /> <img src="https://img.shields.io/badge/SQL-2563eb?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge" alt="Seaborn" /> <br/><br/> <strong>TOOLS & PLATFORMS</strong><br/><br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,gcp,postman" alt="Git, GitHub, VS Code, Vercel, Google Cloud, Postman" /> <br/> <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n automation" /> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" /> </p>
+🚀 Projects I'm Proud Of
+<table> <tr> <td width="50%" valign="top"> <h3>🔧 AssetFlow</h3> <p><strong>Asset Management System</strong></p> <p>Backend features include JWT authentication, role-based access control, real-time WebSocket notifications, and a multi-stage maintenance approval workflow.</p> <p><sub>FastAPI · React · PostgreSQL · JWT · RBAC · WebSockets</sub></p> </td> <td width="50%" valign="top"> <h3>🤖 Nemo</h3> <p><strong>AI Chatbot Web App</strong></p> <p>A mobile-first Flask application with a chatbot experience powered by NVIDIA NIM and streaming AI responses.</p> <p><sub>Python · Flask · NVIDIA NIM</sub></p> </td> </tr> <tr> <td width="50%" valign="top"> <h3>📊 StatBot Pro</h3> <p><strong>Data-Oriented Chatbot</strong></p> <p>A general-purpose chatbot application developed to explore conversational interaction and data-focused workflows.</p> <p><sub>LLM tools · Streamlit</sub></p> </td> <td width="50%" valign="top"> <h3>🧠 DocuMind</h3> <p><strong>Multi-Purpose AI System</strong></p> <p>An AI-focused project developed during an 8-hour inter-department hackathon at the PSV Pre-Incubation Center.</p> <p><sub>AI · Hackathon · Rapid prototyping</sub></p> </td> </tr> <tr> <td colspan="2" valign="top"> <h3>🛡️ Smart Media Management & Moderation Pipeline</h3> <p>Designed a media management and moderation pipeline for the Cloudinary AI Hackathon 2026.</p> <p><sub>Cloudinary · AI-powered media workflows</sub></p> </td> </tr> </table>
+🔗 Explore my GitHub repositories for code and project updates.
 
-<img align="right" width="350" alt="Coding animation" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+💼 Experience
+Role	Organization	Period
+Machine Learning Intern	InternPe	Jun 2026 – Aug 2026
+Python Development Intern	Infotact Solutions	Dec 2025 – Mar 2026
+Full Stack Development Intern	Tech Vedhu	Sep 2025 – Nov 2025
+Selected work: Built an email spam detector as an internship project and completed Python and full-stack development tasks across internship engagements.
 
-I'm a full-stack developer passionate about building modern, responsive, and user-friendly digital experiences. I enjoy developing everything from interactive frontends to scalable backend APIs and exploring new technologies to solve real-world problems.
-
-- 🌍 Based in India
-- 💻 Interested in Full Stack Development, Python, and AI
-- 🤝 Open to collaborations, internships, and open-source contributions
-- 📧 Email: **sanjeevans408@gmail.com**
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/sanjeevans408">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/sanjeevan-m-b80b232bb">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/sanjeevan_official_74/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/SanjeevanS19400">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://youtube.com/@friends_gamerss">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://discord.com/users/sanjeevans408">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java" alt="Programming languages" />
-</p>
-
-### ⚛️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" alt="Frameworks and libraries" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres" alt="Databases" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,postman,androidstudio" alt="Tools and platforms" />
-</p>
-
-### 🤖 AI & Data Tools
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeevans408&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevans408&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanjeevans408&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
----
-
-## ☕ Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/sanjeevan">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me a Coffee" />
-  </a>
-</p>
-
-<p align="center">
-  💙 Thanks for visiting my profile!
-</p>
+🏅 Certifications & Highlights
+Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+SQL (Basic) — HackerRank
+Python 101 for Data Science — IBM Cognitive Class
+Google Analytics Certification
+Web Design & Development — Skill India Digital Hub (NSDC)
+Microsoft Advanced Excel — ITRONIX Solutions
+Participated in five hackathons, including DocuMind, MORROW 1.0, Cloudinary AI Hackathon 2026, HackACE 2026, and HackNIMA 2026
+Contributor — Open Source Connect Global 2026
+📊 GitHub at a Glance
+<div align="center"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=sanjeevans408&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub statistics for Sanjeevan" /> <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevans408&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=E2E8F0" alt="Most used languages" /> </div> <div align="center"> <img width="90%" src="https://streak-stats.demolab.com?user=sanjeevans408&theme=tokyonight&hide_border=true&background=0B1020&ring=A78BFA&fire=FB7185&currStreakLabel=67E8F9" alt="GitHub contribution streak" /> </div> <div align="center"> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeevans408&bg_color=0B1020&color=CBD5E1&line=8B5CF6&point=22D3EE&area=true&area_color=1D4ED8&hide_border=true" alt="GitHub contribution activity graph" /> </div>
+<div align="center"> <h3>💬 Let's Build Something Useful</h3> <p>Interested in working on web applications, Python tools, AI projects, or open source?</p> <a href="mailto:sanjeevans408@gmail.com"> <img src="https://img.shields.io/badge/Reach%20Out-Let's%20Collaborate-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Sanjeevan to collaborate" /> </a> <br/><br/> <img src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:06b6d4,45:2563eb,100:312e81" width="100%" alt="Colorful footer banner" /> <sub>Designed with focus • Built with curiosity • Updated as I learn</sub> </div>
